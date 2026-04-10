@@ -1,16 +1,16 @@
-## Hi there 👋
+## sup
+hello, you already know my name
+### 'bout me
+i have a website yk!
+'''
+its-eyad.eu.org
+'''
+### me and coding
+i like making lil tid bits of code. none of my repos are finished. because surprise surprise, i lost em and am currently procrastinating so hard on re making em
+i promise one day they'll be done... :)
 
-<!--
-**EyadDaCoder/EyadDaCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### project im currently working on
+a chip 8 emulator written in google sheets without apps script! which i'm also procrastinating on! *god i'm so lazy*
+if ya want it, its on my website
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### what are ya still doing here? go to my website!!
