@@ -2,9 +2,9 @@
 hello, you already know my name
 ### 'bout me
 i have a website yk!
-'''
+```
 its-eyad.eu.org
-'''
+```
 ### me and coding
 i like making lil tid bits of code. none of my repos are finished. because surprise surprise, i lost em and am currently procrastinating so hard on re making em
 i promise one day they'll be done... :)
